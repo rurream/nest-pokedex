@@ -20,6 +20,11 @@ npm i -g @nestjs/cli
 docker-compose up -d
 ```
 
+5. Reconstruir la base de datos con la semilla
+```
+
+```
+
 ## Stack usado
 * MongoDB
 * Nest
